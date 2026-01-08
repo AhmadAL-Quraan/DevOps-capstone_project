@@ -1,4 +1,7 @@
 
+* This is the final project for the DevOps training, which have 4 main projects to do.
+* The brief and the projects tasks will be found in the `.pdf` file.
+* Each project will have It's own repo, and links to them here.
 
 
 
